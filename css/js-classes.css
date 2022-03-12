@@ -1,0 +1,16 @@
+
+
+.block{
+    display: block;
+}
+.none{
+    display: none;
+}
+.active{
+    color: black;
+}
+.border{
+    border: 1px solid green;
+}
+
+

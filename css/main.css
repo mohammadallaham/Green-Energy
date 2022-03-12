@@ -1,0 +1,39 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Sora', sans-serif;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --navbar-color:#569841;
+  --section2-bg:#4A8239 ;
+  --paragraphs-color:#595A5A ;
+  --Green-text-color:#71B32E ;
+  --main-font:'Sora', "sans-serif";
+  --switching-color:#F2F2F2;
+}
+
+.underline {
+  height: 1.5px;
+  width: 10%;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 10px;
+}
+
+.sec-content {
+  padding: 40px 0px;
+  width: 80%;
+  margin: auto;
+}
+
+.sec-tit {
+  font-weight: bold;
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */

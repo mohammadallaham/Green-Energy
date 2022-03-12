@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,QAAQ,EAAE,KAAK;EACf,UAAU,EAAE,iBAAiB;CAChC;;AAED,AAAA,OAAO,CAAC,aAAa,CAAC,GAAG,CAAA;EACrB,KAAK,EAAE,GAAG;CACb",
+    "sources": [
+        "edit2.scss"
+    ],
+    "names": [],
+    "file": "edit2.css"
+}
